@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hammad khurshid
+- 👋 Hi, I’m Hammad Khurshid
 - 👀 I’m interested in Visual Design
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on Design Projects
